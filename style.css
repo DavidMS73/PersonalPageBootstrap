@@ -1,0 +1,146 @@
+body {
+  background-color: #222222;
+  color: white;
+  font-family: "Alata", sans-serif;
+  padding: 60px 0 0 0;
+  position: initial;
+}
+
+.nav--background-dark {
+  background-color: #000000;
+}
+
+.background--color-darkgray {
+  background-color: #b9aeae;
+}
+
+.footer--background-dark {
+  background-color: #000000;
+}
+
+.contactme--padding {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.footer--padding {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.footer--radius {
+  border-top-left-radius: 2rem;
+  border-top-right-radius: 2rem;
+}
+
+.footer--center {
+  text-align: center;
+}
+
+.text--strong {
+  font-weight: bold;
+}
+
+.text--white {
+  color: white;
+}
+
+.text--center {
+  text-align: center;
+}
+
+.row {
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+.row--align-item {
+  align-items: center;
+}
+
+@media (min-width: 768px) {
+  .row {
+    margin-right: 1rem;
+    margin-left: 1rem;
+  }
+}
+
+.home--content {
+  margin: 5% 5%;
+}
+
+.home--content-more {
+  justify-content: center;
+  align-items: center;
+  margin: 5% 5%;
+}
+
+.home--academicAndExperience {
+  align-items: center;
+  text-align: center;
+}
+
+.home--projects {
+  align-items: center;
+  text-align: center;
+  margin: 5% 5%;
+}
+
+.basic--margin {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.timeline--cards-size {
+  max-width: 25rem;
+}
+
+.home--text {
+  padding-left: 3rem;
+  vertical-align: middle;
+}
+
+.text--size-verybig {
+  font-size: 3rem;
+}
+
+.text--size-big {
+  font-size: 1.3rem;
+}
+
+.text--size-small {
+  font-size: 0.6rem;
+}
+
+.text--color-gray {
+  color: #d5d5d5;
+}
+
+.text--color-black {
+  color: #000000;
+}
+
+.image--home {
+  display: block;
+  position: relative;
+  background-color: #444;
+  border: 1rem solid #444;
+  border-radius: 100%;
+  box-shadow: 0 0 2rem 0 rgba(0, 0, 0, 0.8);
+  padding-bottom: calc(100% - 2.1rem);
+  overflow: hidden;
+}
+
+.image--home-me {
+  position: absolute;
+  background-image: url("images/Versalles.jpg");
+  background-size: cover;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.icons--margin {
+  margin: 0.4em;
+}
