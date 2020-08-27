@@ -1,4 +1,6 @@
 # Personal Page Bootstrap
-Página web personal. Describo parte de mis datos biográficos, información de contacto, social media, proyectos, intereses, hobbies, habilidades y descripción de mi formación académica y experiencia.
+Personal web page. I describe part of my biographical data, contact information, social media, projects, interests, hobbies, skills and a description of my academic training and experience.
 
-Desarrollada únicamente con HTML, CSS y Bootstrap.
+Developed only with HTML, CSS and Bootstrap.
+
+URL: https://davidms73.github.io/PersonalPageBootstrap/
